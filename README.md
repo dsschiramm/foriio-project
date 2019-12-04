@@ -1,2 +1,2 @@
-# react-artist-gallery
+# react-portfolio
 Portfolio platform for artists
