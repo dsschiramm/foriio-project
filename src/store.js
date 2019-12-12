@@ -7,8 +7,7 @@ const initialState = {
 }
 
 function historyReducer(state = initialState, action) {
-	console.log(state);
-	console.log(action);
+
 	let userHistory = state.userHistory;
 
 	if (userHistory.length > 20) {
